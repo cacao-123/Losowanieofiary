@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Losowanie ofiary</string>
+    <string name="Losuj">TextView</string>
 </resources>
